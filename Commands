@@ -1,0 +1,18 @@
+backup() - Write everything in your current file into a python file named "save". Must create/have a Python file called
+           "save".
+
+cmds() - Prints out a list of all the commands in Leafy.
+
+calculator() - Automatically creates a calculator to run in terminal.
+
+modules() - Installs/imports recommended modules into your code.
+
+str_var() - Asks you to input text in terminal, then stores the text in a variable named "var".
+
+shooter() - Creates a shooter game layout. You can edit the code if you would like.
+
+sandbox() - Creates a sandbox layout for you. Controls are the arrow keys.
+
+snake() - Creates a snake game layout. Edit the code freely if you wish.
+
+pong() - Creates a ping pong layout. I recommend not changing any blocks of code.
